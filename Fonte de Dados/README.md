@@ -1,1 +1,1 @@
-A fonte de dados para os dashboards estão contidas em uma única pasta de Excel a qual está em anexo.
+A fonte de dados para os dashboards está contida em uma única pasta de Excel, que está em anexo.
