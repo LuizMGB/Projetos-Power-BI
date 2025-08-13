@@ -1,4 +1,0 @@
-A principal função utilizada foi:
-- Transformar colunas em linhas (*pivot* em inglês)
-
-Nesta caso, o objetivo é preparar os dados que não vieram num formato interessante para importar diretamente para o Power BI.
